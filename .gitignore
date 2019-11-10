@@ -1,0 +1,7 @@
+.tmp/
+.idea/
+__pycache__/
+
+*.csv
+*.txt
+.tmp.drivedownload
